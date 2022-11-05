@@ -1820,7 +1820,7 @@ body {
 }
 @media (max-width: 321px) {
   .footer__column-links {
-    gap: 40px;
+    gap: 30px;
   }
 }
 .footer__column-link {
